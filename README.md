@@ -3,7 +3,6 @@
 ## Plant Species Gallery
 
 ### 1. Magnolia × soulangeana
-![Magnolia × soulangeana](link-to-image)
 **Scientific Name:** *Magnolia × soulangeana*
 **Description:** A hybrid magnolia species known for its large, fragrant pink and white flowers that bloom in early spring before the leaves emerge.
 
