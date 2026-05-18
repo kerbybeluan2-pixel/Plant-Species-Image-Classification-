@@ -137,5 +137,6 @@
 ### 20. Dianthus caryophyllus
 
 <img width="182" height="277" alt="20" src="https://github.com/user-attachments/assets/b23d5fae-bf97-4cc1-bb1d-0edc57a8af49" />
+
 **Scientific Name: Dianthus caryophyllus**
 **Description:** Commonly known as Carnation, Dianthus caryophyllus is a flowering plant prized for its fragrant, ruffled blooms in a wide range of colors including red, pink, white, and burgundy. Native to the Mediterranean, carnations have been cultivated for centuries. They are popular as ornamental garden plants and cut flowers, valued for their long vase life, spicy clove-like fragrance, and availability in numerous varieties and colors.
